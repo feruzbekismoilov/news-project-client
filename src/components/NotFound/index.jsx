@@ -6,9 +6,7 @@ const NotFound = () => {
         <h2 className="d-flex gap-2">
           <strong>404</strong>Not Found
         </h2>
-        <Link className="" to="/">
-          Back to home
-        </Link>
+        <Link to="/">Back to home</Link>
       </div>
     </div>
   );
